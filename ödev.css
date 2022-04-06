@@ -1,0 +1,73 @@
+.text-red {
+    color: red;
+    font-size: 40px;
+}
+
+.orta {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.sol{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.büyük{
+    font-size: 20px;
+    text-align: center;
+}
+
+.parent {
+	text-align: center;
+	}
+ul { 
+	display: inline-block; 
+	text-align: left; 
+	}
+    
+    li{
+        font-size: 17px;
+    }
+
+    p{
+        text-align: center;
+        font-size: 23px;
+        color: purple;
+        
+    }
+
+.başlık{
+    font-size: 50px;
+    color:#733C3C;
+    text-align: center;
+    
+}
+
+#bir{
+    
+  border-radius: 45px;
+
+  background: #73AD21;
+
+  padding: 5px; 
+
+  width: 250px;
+
+  height: 170px; 
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.ing{
+    text-align: center;
+    width: 25px;
+}
+
